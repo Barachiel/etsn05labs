@@ -1,0 +1,6 @@
+var base = base || {};
+base.helloController = function() {
+    var controller = {};
+    //TODO: the controller object needs a load function
+    return controller;
+};
