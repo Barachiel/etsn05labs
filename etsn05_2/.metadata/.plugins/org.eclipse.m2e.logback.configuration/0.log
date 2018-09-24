@@ -131,3 +131,8 @@
 2018-09-24 12:34:12,291 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-24 12:34:12,291 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-24 12:34:12,291 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Larss\Documents\etsn05\largesofteng-master\largesofteng-master\base\server\src\test\resources
+2018-09-24 13:33:15,479 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-24 13:33:28,689 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-24 13:33:28,703 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 36 resources
+2018-09-24 13:33:29,388 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-24 13:33:29,389 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Larss\Documents\etsn05\largesofteng-master\largesofteng-master\base\server\src\test\resources
